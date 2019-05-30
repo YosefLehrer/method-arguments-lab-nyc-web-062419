@@ -1,3 +1,3 @@
-def introduction(name, phrase)
+def introduction(name)
   
 end
